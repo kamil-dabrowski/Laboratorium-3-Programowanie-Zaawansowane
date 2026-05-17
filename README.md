@@ -26,4 +26,4 @@ Link do dokumentacji Python: https://docs.python.org/
 
 ![Python Version](https://img.shields.io/badge/python-%3E%3D3.10-blue)
 ![Pytest](https://img.shields.io/badge/testing-pytest-green)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
